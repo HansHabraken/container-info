@@ -102,8 +102,7 @@
                 ?>
           </td>
         </tr>
-	  <td>TESTETSTESTSTE</td>
-	<tr>
+	 <tr>
           <canvas width="150" height="150" data-jdenticon-hash="<?php echo hash('sha256', gethostname()); ?>"></canvas> 
 	</tr>
   </tbody>
